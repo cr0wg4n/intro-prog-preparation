@@ -91,8 +91,10 @@ Contenido recolectado de  [1library.co](https://1library.co/document/qorvxv5q-un
 
 ## Frases 
 
-Sistematiza tu pensamiento 
-Sistematizar ideas
-No existe recetas 
+| Sistematiza tu pensamiento 
+
+| Sistematizar ideas
+
+| No existe recetas 
 
 
