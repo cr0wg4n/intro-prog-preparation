@@ -1,7 +1,7 @@
 # Introducción a la Programación
 Preparación para el examen de auxiliatura de docencia
 
-## Contenido 
+## Selección y Organización de Contenidos
 ### Unidad 1 - Conceptos basicos de computación
 Conocer un marco general, la evolución y la importancia de la programación en la formación profesional.
 #### Contenido
@@ -74,8 +74,7 @@ Solución de problemas mediante la descomposición funcional
 * Ejercicios 
 
 
-
-Contenido recolectado de  [1library.co](https://1library.co/document/qorvxv5q-universidad-facultad-ciencias-tecnologia-departamento-informatica-introduccion-programacion.html), autores: 
+El contenido ha sido recolectado de [1library.co](https://1library.co/document/qorvxv5q-universidad-facultad-ciencias-tecnologia-departamento-informatica-introduccion-programacion.html), autores: 
 - Carlos Manzur S.
 - Leticia Blanco C.
 - Vladimir Costas J.
