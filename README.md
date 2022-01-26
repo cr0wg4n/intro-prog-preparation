@@ -1,5 +1,23 @@
 # Introducción a la Programación
-Preparación para el examen de auxiliatura de docencia
+Preparación para el examen de auxiliatura de docencia UMSS
+
+## Postulación
+
+El postulante debe presentar los siguientes documentos:
+* Carta de solicitud dirigida al jefe de departamento de Informática y Sistemas (especificando la materia 
+a la que se encuentra postulando).
+
+* Kardex estudiantil emitido por la facultad.
+* Certificado de alumno regular para auxiliatura, en oficinas de registro e inscripciones.
+* Certificado que valide cuantas gestiones el postulante se encuentra en la modalidad titulación, en oficinas (departamento) de registro e inscripciones.
+* Certificado emitido por el Departamento de informática y Sistemas, donde se verifique que no se 
+tiene deuda alguna (solicitar en secretaria Inf/Sis).
+* Certificado emitido por la biblioteca de la FCyT, para verificar que no exista deudas.
+
+
+* Curriculum vitae documentado y ordenado de acuerdo a la tabla de calificación.
+* Fotocopia de Carnet de Identidad vigente.
+* Fotocopia de Diploma de Bachiller.
 
 ## Selección y Organización de Contenidos
 ### Unidad 1 - Conceptos basicos de computación
