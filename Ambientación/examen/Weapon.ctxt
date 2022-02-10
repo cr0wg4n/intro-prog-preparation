@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=damage
+comment1.target=Weapon(int)
+comment2.params=character\ damage
+comment2.target=boolean\ causeDamage(Character,\ int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Programmer
+comment1.params=name\ code\ age\ role
+comment1.target=Programmer(java.lang.String,\ java.lang.String,\ int,\ char)
+comment2.params=
+comment2.target=void\ doWork()
+comment3.params=
+comment3.target=void\ doMagicSpells()
+comment4.params=
+comment4.target=void\ doLazzy()
+comment5.params=
+comment5.target=void\ imCrazzy()
+numComments=6

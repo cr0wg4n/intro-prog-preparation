@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Sword
+comment1.params=damage\ magicPower
+comment1.target=Sword(int,\ int)
+numComments=2
